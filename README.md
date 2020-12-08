@@ -1,5 +1,5 @@
 # Q-Learning
-This is a Q-learning approach to maximizing expected reward in game thats a variant of blackjack. These are the rules of the game:
+This is a Q-learning approach to maximizing expected reward in game that's a variant of blackjack. These are the rules of the game:
 
 Game is played with infinite deck of cards.
 
